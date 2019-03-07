@@ -14,5 +14,5 @@ void insertionSort(T a[],int n)
     }     
 }
 
-//T : best:O(n),average&worst:O(n^2) 
+//T : Ω(n) Θ(n^2) O(n^2)
 //S : O(1)
